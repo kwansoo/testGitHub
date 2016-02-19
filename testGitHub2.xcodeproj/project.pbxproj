@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AC72ABB21C76B4B90096AD86 /* FirstClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AC72ABB11C76B4B90096AD86 /* FirstClass.m */; };
+		AC72ABB51C76B5BF0096AD86 /* SecondClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AC72ABB41C76B5BF0096AD86 /* SecondClass.m */; };
 		ACFA4BD01C76B03400A695A9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = ACFA4BCF1C76B03400A695A9 /* main.m */; };
 		ACFA4BD31C76B03400A695A9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = ACFA4BD21C76B03400A695A9 /* AppDelegate.m */; };
 		ACFA4BD61C76B03400A695A9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACFA4BD51C76B03400A695A9 /* ViewController.m */; };
@@ -30,6 +31,8 @@
 /* Begin PBXFileReference section */
 		AC72ABB01C76B4B90096AD86 /* FirstClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstClass.h; sourceTree = "<group>"; };
 		AC72ABB11C76B4B90096AD86 /* FirstClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstClass.m; sourceTree = "<group>"; };
+		AC72ABB31C76B5BF0096AD86 /* SecondClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondClass.h; sourceTree = "<group>"; };
+		AC72ABB41C76B5BF0096AD86 /* SecondClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondClass.m; sourceTree = "<group>"; };
 		ACFA4BCB1C76B03400A695A9 /* testGitHub2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testGitHub2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACFA4BCF1C76B03400A695A9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		ACFA4BD11C76B03400A695A9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -95,6 +98,8 @@
 				ACFA4BCE1C76B03400A695A9 /* Supporting Files */,
 				AC72ABB01C76B4B90096AD86 /* FirstClass.h */,
 				AC72ABB11C76B4B90096AD86 /* FirstClass.m */,
+				AC72ABB31C76B5BF0096AD86 /* SecondClass.h */,
+				AC72ABB41C76B5BF0096AD86 /* SecondClass.m */,
 			);
 			path = testGitHub2;
 			sourceTree = "<group>";
@@ -219,6 +224,7 @@
 				ACFA4BD61C76B03400A695A9 /* ViewController.m in Sources */,
 				AC72ABB21C76B4B90096AD86 /* FirstClass.m in Sources */,
 				ACFA4BD31C76B03400A695A9 /* AppDelegate.m in Sources */,
+				AC72ABB51C76B5BF0096AD86 /* SecondClass.m in Sources */,
 				ACFA4BD01C76B03400A695A9 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
