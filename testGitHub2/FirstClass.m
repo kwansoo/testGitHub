@@ -15,6 +15,7 @@
     self = [super init];
     if (self) {
         // edit by first branch
+        // edit by second branch
     }
     return self;
 }
