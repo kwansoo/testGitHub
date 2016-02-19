@@ -10,4 +10,12 @@
 
 @implementation SecondClass
 
+- (instancetype)init
+{
+    self = [super init];
+    if (self) {
+        // by second branch
+    }
+    return self;
+}
 @end
