@@ -10,4 +10,12 @@
 
 @implementation FirstClass
 
+- (instancetype)init
+{
+    self = [super init];
+    if (self) {
+        // edit by second branch
+    }
+    return self;
+}
 @end
