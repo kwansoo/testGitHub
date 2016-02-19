@@ -15,6 +15,7 @@
     self = [super init];
     if (self) {
         // by second branch
+        // by first branch
     }
     return self;
 }
